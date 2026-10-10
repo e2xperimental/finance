@@ -30,7 +30,8 @@ If your brokerage supports fractional shares, you can get remarkably close to th
 
 ## The index providers publish the rules.
 
-S&P 500: S&P Dow Jones Indices publishes the methodology, constituent list, index weights, and announcements of changes. The S&P 500 is float-adjusted market-cap weighted and is reviewed/rebalanced quarterly. S&P Global
+### S&P 500
+S&P Dow Jones Indices publishes the methodology, constituent list, index weights, and announcements of changes. The S&P 500 is float-adjusted market-cap weighted and is reviewed/rebalanced quarterly. (S&P Global) [https://www.spglobal.com/spdji/en/methodology/article/sp-us-indices-methodology/]
 
 S&P also explains the basic philosophy: stocks are added/deleted according to the index's eligibility and selection rules, generally through scheduled rebalancing, while corporate events can cause changes outside the normal schedule. S&P Global
 
