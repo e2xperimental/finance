@@ -4,29 +4,34 @@ title: How can I build my own index fund?
 date: 2026-10-09 10:00:00 -0000
 category: "DIY index fund"
 ---
-The index methodology determines whether it belongs in the index. Market-cap weighting then determines its weight.
+Yes. What you’re describing is essentially a **DIY index fund**: you own the underlying stocks directly, in approximately the same weights as an index, and periodically update your holdings to follow the index.
 
-So if you buy an S&P 500 ETF, you don't have to figure out whether Apple should be 6.2% or 6.4% tomorrow. The fund handles it.
+And importantly, **the major index providers publish enough information to make this possible.**
+
+### The basic idea
+
 Suppose you wanted to replicate the S&P 500:
+
 1. Get the current S&P 500 constituent list.
 2. Get each company's current index weight.
 3. Decide how much money you want in your "personal S&P 500."
 4. Calculate:
-   
-Dollar amount = Portfolio × Index weight
+
+**Dollar amount = Portfolio × Index weight**
 
 Then:
 
-Shares to buy = Dollar amount ÷ Stock price
+**Shares to buy = Dollar amount ÷ Stock price**
 
-## Example with a $100,000 portfolio
+For example, with a hypothetical $100,000 portfolio:
 
-Stock	Index weight	Target $	Price	Shares
-Apple	6.5%	$6,500	$200	32.50
-Microsoft	5.5%	$5,500	$400	13.75
-Amazon	3.5%	$3,500	$200	17.50
-...	...	...	...	...
-Total	100%	$100,000		
+| Stock | Index weight | Target $ | Price | Shares |
+|---|---:|---:|---:|---:|
+| Apple | 6.5% | $6,500 | $200 | 32.50 |
+| Microsoft | 5.5% | $5,500 | $400 | 13.75 |
+| Amazon | 3.5% | $3,500 | $200 | 17.50 |
+| ... | ... | ... | ... | ... |
+| Total | 100% | $100,000 | | |	
 
 If your brokerage supports fractional shares, you can get remarkably close to the index.
 
