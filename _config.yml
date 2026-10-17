@@ -1,3 +1,21 @@
 theme: jekyll-theme-minimal
-title: My Site
+title: Finance
 description: Hello from GitHub Pages + Jekyll
+
+# Collections and post settings
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Post settings
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+# URL configuration
+baseurl: "/finance"
+url: "https://finance.github.io"
