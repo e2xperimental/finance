@@ -1,6 +1,11 @@
-How can I get emailed or texted when the S&P 500 Index updates it's basket of stocks and/or holding percentage?
+---
+layout: post
+title: How can I get emailed or texted when the S&P 500 Index updates it's basket of stocks and/or holding percentage?
+date: 2026-10-16 10:00:00 -0000
+category: "DIY index fund"
+---
 
-Yes — and there are **two different alerts you may want**, because the S&P 500 changes in two different ways:
+There are **two different alerts you may want**, because the S&P 500 changes in two different ways:
 
 1. **A company is added or removed** from the index.
 2. **The weight of an existing company changes** because of market-cap/share-count/float changes.
