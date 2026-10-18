@@ -30,5 +30,12 @@ Examples
 | Mutual fund | VHYAX | [Vanguard High Dividend Yield Index Fund Admiral Shares](https://investor.vanguard.com/investment-products/mutual-funds/profile/vhyax) | 0.08% | $3,000 | 2.31% |
 | ETF | VYM | [Vanguard High Dividend Yield ETF](https://investor.vanguard.com/investment-products/etfs/profile/vym) | 0.04% | $1 | 2.35% |
 
+## Total bond market index fund
+
+| Type | Ticker | Name | Expense ratio | Minimum investment | 30 day SEC yield |
+|---|---:|---:|---:|---:|---:|
+| Mutual fund | VBTLX | [Vanguard Total Bond Market Index Fund Admiral Shares](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbtlx) | 0.04% | $3,000 | 5.41% A |
+| ETF | BND | [Vanguard Total Bond Market ETF](https://investor.vanguard.com/investment-products/etfs/profile/bnd) | 0.03% | $1 | 5.14% A |
+
 Expense ratios as of 4/28/2026.
 
