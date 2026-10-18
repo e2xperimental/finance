@@ -2,7 +2,7 @@
 layout: post
 title: Can I avoid paying mutual fund expense ratios by building my own index fund? 
 date: 2026-10-09 10:00:00 -0000
-category: "DIY index fund"
+category: "Google finance"
 ---
 Yes, you can buy the underlying stocks directly, in approximately the same weights as an index, and periodically update your holdings to follow the index.
 
