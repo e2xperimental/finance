@@ -14,7 +14,7 @@ For your DIY index-fund idea, I would monitor **both**.
 
 ### 1. Official S&P alerts — best source for additions/deletions
 
-S&P Dow Jones Indices has an official registration system where you can sign up for email updates. Their announcements cover things such as additions/deletions and rebalancings. :chatgpt-content-reference{index="0"}
+S&P Dow Jones Indices has an official registration system where you can sign up for email updates. Their announcements cover things such as additions/deletions and rebalancings.
 
 [S&P Dow Jones Indices registration / email updates](https://www.spglobal.com/spdji/en/registration/?utm_source=chatgpt.com)
 
