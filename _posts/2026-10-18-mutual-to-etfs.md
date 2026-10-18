@@ -23,11 +23,12 @@ Examples
 | Mutual fund | VFIAX | [Vanguard 500 Index Fund Admiral Shares](https://investor.vanguard.com/investment-products/mutual-funds/profile/vfiax) | 0.04% | $3,000 |
 | ETF | VOO | [Vanguard S&P 500 ETF](https://investor.vanguard.com/investment-products/etfs/profile/voo) | 0.03% | $1 |
 
-Expense ratios as of 4/28/2026.
-
 ## High dividend yield index fund
 
 | Type | Ticker | Name | Expense ratio | Minimum investment | 30 day SEC yield |
 |---|---:|---:|---:|---:|---:|
 | Mutual fund | VHYAX | [Vanguard High Dividend Yield Index Fund Admiral Shares](https://investor.vanguard.com/investment-products/mutual-funds/profile/vhyax) | 0.08% | $3,000 | 2.31% |
 | ETF | VYM | [Vanguard High Dividend Yield ETF](https://investor.vanguard.com/investment-products/etfs/profile/vym) | 0.04% | $1 | 2.35% |
+
+Expense ratios as of 4/28/2026.
+
