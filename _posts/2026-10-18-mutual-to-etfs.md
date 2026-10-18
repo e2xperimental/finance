@@ -7,6 +7,8 @@ category: "Boggleheads"
 
 [Vanguard 500 Index Fund Admiral Shares](https://investor.vanguard.com/investment-products/mutual-funds/profile/vfiax)
 
-| Ticker | Expense ratio | Minimum investment |
-|---|---:|---:|
-| VFIAX | 0.04% | $3,000 |
+| Type | Ticker | Expense ratio | Minimum investment |
+|---|---:|---:|---:|
+| Mutual fund | VFIAX | 0.04% | $3,000 |
+| ETF | VOO | 0.03% | $1 |
+
