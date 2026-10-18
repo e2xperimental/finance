@@ -16,15 +16,15 @@ For your DIY index-fund idea, I would monitor **both**.
 
 S&P Dow Jones Indices has an official registration system where you can sign up for email updates. Their announcements cover things such as additions/deletions and rebalancings.
 
-[S&P Dow Jones Indices registration / email updates](https://www.spglobal.com/spdji/en/registration/?utm_source=chatgpt.com)
+[S&P Dow Jones Indices registration / email updates](https://www.spglobal.com/spdji/en/registration/)
 
 There's also an official **Index Announcements** area:
 
-[S&P DJI News & Announcements](https://www.spglobal.com/spdji/en/media-center/news-announcements/?utm_source=chatgpt.com)
+[S&P DJI News & Announcements](https://www.spglobal.com/spdji/en/media-center/news-announcements/)
 
-For example, S&P announced the June 2026 S&P 500 change involving Marvell Technology and Pool Corp ahead of the effective date. :chatgpt-content-reference{index="3"}
+For example, S&P announced the June 2026 S&P 500 change involving Marvell Technology and Pool Corp ahead of the effective date.
 
-**Important:** S&P doesn't simply rebalance the S&P 500 on a fixed quarterly schedule like an ETF. The S&P 500's component changes can occur in response to corporate actions and market developments. :chatgpt-content-reference{index="4"}
+**Important:** S&P doesn't simply rebalance the S&P 500 on a fixed quarterly schedule like an ETF. The S&P 500's component changes can occur in response to corporate actions and market developments.
 
 ---
 
