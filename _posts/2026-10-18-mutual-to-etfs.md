@@ -7,6 +7,7 @@ category: "Boggleheads"
 
 A Mutual fund is a basket of funds.
 Vanguard introduced low-cost mutual funds, called index funds.
+
 Now they offer many exchange traded fund (ETF) equivalents.
 I am switching to ETFs because they:
 - Cost less (lower expense ratios)
