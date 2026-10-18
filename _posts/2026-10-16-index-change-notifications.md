@@ -72,7 +72,7 @@ Apple goes up 5% tomorrow.
 
 Apple's S&P 500 weight will increase relative to Microsoft. That's **not an index rebalance** that requires you to trade.
 
-The S&P 500 is float-adjusted market-cap weighted, so market movements naturally change the relative weights. :chatgpt-content-reference{index="5"}
+The S&P 500 is float-adjusted market-cap weighted, so market movements naturally change the relative weights.
 
 What you really want your DIY system to detect is:
 
@@ -86,7 +86,7 @@ What you really want your DIY system to detect is:
 - Rebalancing changes
 - Corporate actions
 
-S&P actually provides **pro-forma files containing constituents, weights and index shares before rebalancing**. :chatgpt-content-reference{index="6"}
+S&P actually provides **pro-forma files containing constituents, weights and index shares before rebalancing**.
 
 That's particularly interesting for what you're trying to accomplish.
 
