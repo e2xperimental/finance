@@ -11,7 +11,7 @@ Now they offer many exchange traded fund (ETF) equivalents.
 I am switching to ETFs because they:
 - Cost less (lower expense ratios)
 - Don't have investment minimums
-- Can be conditionally bought or sold at a specific price. Mutual fund prices are calculated after the market closes. 
+- Can be conditionally bought or sold at a specific price whereas mutual fund prices are calculated after the market closes. 
 
 Examples
 
