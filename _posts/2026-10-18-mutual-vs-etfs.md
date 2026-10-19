@@ -2,7 +2,7 @@
 layout: post
 title: Why I switched from Vanguard mutual funds to ETFs  
 date: 2026-10-18 10:00:00 -0000
-category: "Boggleheads"
+category: "Lower expenses"
 ---
 
 A Mutual fund is a basket of funds.
