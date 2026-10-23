@@ -7,7 +7,7 @@ category: "Index funds"
 
 The key idea is that market-cap weighting lets you own the market without having to predict which companies will be the winners. But it doesn't guarantee that the market will always go up, and it isn't the only way to construct an index.
 
-Market capitalization is the total market value of a company's outstanding shares.
+Market capitalization is the total market value of all the shares of a company that are currently held by investors.
 
 For example:
 
@@ -15,7 +15,7 @@ For example:
 - A much smaller company has a lower market value.
 - A market-cap-weighted index allocates more of its money to Apple and less to the smaller company.
 
-The S&P 500 and VOO use float-adjusted market-cap weighting, while VTI tracks the broad U.S. stock market using a similar market-cap-weighted approach.
+The S&P 500 and VOO give more weight to companies based on their total stock market value, counting only shares available for public investors to buy, while VTI tracks the broad U.S. stock market using a similar approach.
 
 Here's a simplified example of a $10,000 portfolio.
 
