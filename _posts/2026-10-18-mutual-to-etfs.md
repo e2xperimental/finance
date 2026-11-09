@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Why I switched from Vanguard mutual funds to ETFs  
+title: Why I switched from mutual funds to ETFs  
 date: 2026-10-18 10:00:00 -0000
 category: "ETFs"
 ---
 
 A Mutual fund is a basket of funds.
-Vanguard introduced low-cost mutual funds, called index funds.
+Index funds are mutual funds that are passively managed and therefore lower cost.
 
-Now they offer many exchange traded fund (ETF) equivalents.
-I am switching to ETFs because they:
+Exchange traded funds (ETF) are like mutual funds except they:
 - Cost less (lower expense ratios)
 - Don't have investment minimums
 - Can be conditionally bought or sold at a specific price whereas mutual fund prices are calculated after the market closes. 
