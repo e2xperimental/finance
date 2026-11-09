@@ -2,7 +2,7 @@
 layout: post
 title: How do I change my dividend settings?
 date: 2026-11-03 10:00:00 -0000
-category: "Vanguardd"
+category: "Vanguard"
 ---
 
 1. Log into Vanguard.com
