@@ -35,6 +35,11 @@ Long-term capital gains are gains on investments you owned for more than 1 year.
 
 Short-term capital gains are gains on investments you owned for 1 year or less, and they’re taxed at your ordinary income tax rate.
 
+## Frequently asked questions
+
+Can I change my Settlement fund to a tax-exempt settlement fund?
+
+No, Vanguard's Settlement fund only has 2 options.
 
 ## 1. Buy and hold stocks for at least one year
 Minimizes capital gains tax.
