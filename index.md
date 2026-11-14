@@ -8,7 +8,8 @@ title: Home
 {% for category in site.categories %}
   <h2>{{ category[0] }}</h2>
   <ul>
-    {% for post in category[1] %}
+    {% assign post = cattegory[1] | sort_natural: "title" %}
+    {% for post in posts %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
