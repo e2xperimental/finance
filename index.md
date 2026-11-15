@@ -5,7 +5,8 @@ title: Home
 
 # Welcome to Investing ideas
 
-{% for category in site.categories %}
+{% assign categories = site.categories | sort_natural %}
+{% for category in categories %}
   <h2>{{ category[0] }}</h2>
   <ul>
     {% assign posts = category[1] | sort_natural: "title" %}
